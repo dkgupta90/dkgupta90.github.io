@@ -155,7 +155,6 @@
 	top: 62%;
 }
 .camera_caption > div {
-	text-transform: capitalize;
 	font-size: 1.8em;
 	-webkit-text-stroke: 0.2px;
 	line-height: 1.5em;
