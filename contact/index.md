@@ -8,7 +8,7 @@ comments: false
 
 You can contact me at :
 
-Email: <d.k.gupta[AT]uva.nl>
+Email: d.k.gupta[AT]uva.nl
 
 Address:  
 904 Science Park,  
