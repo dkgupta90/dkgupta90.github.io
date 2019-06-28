@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:	Welcome
-locale:           en_US
-url:	https://dkgupta90.github.io
+title:
+locale: en_US
+url: https://dkgupta90.github.io
 
 
 # Jekyll configuration
