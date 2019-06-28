@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-tags: [ajinkya, kadu, home, uu, computational imaging, machine learning, seismic inversion, graduate]
+tags: [deepak, gupta, home, tud, uva, computational imaging, machine learning, seismic geophysics, graduate]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
