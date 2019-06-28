@@ -11,7 +11,7 @@ Earlier, I worked as a Research Scientist (Nov'17-Jan'19) in [Shell](https://www
 
 I completed my joint BS and MS in geophysics from [Indian Institute of Technology (ISM), Dhanbad](https://www.iitism.ac.in), in 2013. My thesis project focused on application of soft computing methods for improved interpretation of geophysical data.
 
-I am passionate about education and have been involved in educational outreach and mentoring activities. I'm a founding member of [SIAM student chapter](https://uusiamchapter.wordpress.com/) at Utrecht University. Along with research and education, I cherish interesting conversations on startup and artificial intelligence.
+I am passionate about solving real-world problems with the power of physics, maths and machine learning. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
 
 ----
 
