@@ -40,15 +40,15 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-97983884-1
+    analytics: 
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: dkgupta90
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: deepak-gupta-05b48828 #username
-  twitter: dk_gup
+  linkedin:	"deepak-gupta-05b48828" #username
+  twitter:	"dk_gup"
   xing: #username
   instagram: #username
   lastfm: #username
