@@ -4,7 +4,7 @@ title:
 locale:           en_US
 url: https://dkgupta90.github.io
 
-
+encoding: UTF-8
 # Jekyll configuration
 
 permalink:   /:categories/:title/
