@@ -13,9 +13,9 @@ I am passionate about education and have been involved in educational outreach a
 
 ----
 
-### Journal Publications
-1. Ajinkya Kadu, Tristan van Leeuwen  
-[A Convex Formulation for Binary Tomography](https://ieeexplore.ieee.org/document/8637779)  
+### Recent Publications
+1. Deepak K. Gupta, M. Langelaar and F. van Keulen  
+[QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
 *IEEE Transactions on Computational Imaging (TCI), 2019*  
 [<button type="button" class="btn btn-info">ArXiv:1807.09196</button>](https://arxiv.org/abs/1807.09196)
 [<button type="button" class="btn btn-info">Paper</button>](/reports/discreteTomo_paper.pdf){:target="_blank"}  
