@@ -7,8 +7,8 @@ url: https://dkgupta90.github.io
 
 # Jekyll configuration
 
-permalink:	/:categories/:title/
-markdown:    kramdown
+permalink: /:categories/:title/
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -27,14 +27,14 @@ kramdown:
 
 # Site owner
 owner:
-  name:	Deepak K. Gupta
-  avatar:	bio-photo-1.jpg
-  position:	Postdoctoral Researcher
- school:	"QUVA Lab & Informatics Institute"
-  school:	University of Amstedam	
-  place:	Amsterdam, Netherlands
-  bio:	"Graduate student<br/>Mathematics Department&#13;&#10;Utrecht University&#13;&#10;Utrecht, The Netherlands"
-  email:	d.k.gupta@uva.nl
+  name: Deepak K. Gupta
+  avatar: bio-photo-1.jpg
+  position: Postdoctoral Researcher
+ school: "QUVA Lab & Informatics Institute"
+  school: University of Amstedam	
+  place: Amsterdam, Netherlands
+  bio: "Graduate student<br/>Mathematics Department&#13;&#10;Utrecht University&#13;&#10;Utrecht, The Netherlands"
+  email: d.k.gupta@uva.nl
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -47,8 +47,8 @@ owner:
   bing-verify:
   github: dkgupta90
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:	"deepak-gupta-05b48828" #username
-  twitter:	"dk_gup"
+  linkedin: "deepak-gupta-05b48828" #username
+  twitter: "dk_gup"
   xing: #username
   instagram: #username
   lastfm: #username
