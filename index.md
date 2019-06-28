@@ -16,9 +16,8 @@ I am passionate about education and have been involved in educational outreach a
 ### Recent Publications
 1. Deepak K. Gupta, M. Langelaar and F. van Keulen  
 [QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
-*IEEE Transactions on Computational Imaging (TCI), 2019*  
-[<button type="button" class="btn btn-info">ArXiv:1807.09196</button>](https://arxiv.org/abs/1807.09196)
-[<button type="button" class="btn btn-info">Paper</button>](/reports/discreteTomo_paper.pdf){:target="_blank"}  
+*Structural and Multidisplinary Optimization (SMO), 2018*  
+[<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/content/pdf/10.1007%2Fs00158-018-2048-6.pdf){:target="_blank"}  
 
 1. Ajinkya Kadu, Tristan van Leeuwen, Wim Mulder  
 [Salt Reconstruction in Full Waveform Inversion with a Parametric Level-Set Method](http://ieeexplore.ieee.org/document/7784771/)  
