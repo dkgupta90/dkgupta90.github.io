@@ -1,0 +1,65 @@
+# Site wide configuration
+
+title:
+locale:           en_US
+url: https://ajinkyakadu125.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+
+# Site owner
+owner:
+  name: Ajinkya Kadu
+  avatar: bio-photo-1.jpg
+  position: Graduate Student
+  school: Utrecht University
+  place: Utrecht, The Netherlands.
+  bio: "Graduate student<br/>Mathematics Department&#13;&#10;Utrecht University&#13;&#10;Utrecht, The Netherlands"
+  email: ajinkyakadu125@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: +AjinkyaKadu125 #username
+    analytics: UA-97983884-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ajinkyakadu125
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: ajinkyakadu #username
+  xing: #username
+  instagram: ajinkya.kadu #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
