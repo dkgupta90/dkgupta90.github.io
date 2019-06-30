@@ -36,8 +36,8 @@ I am passionate about solving real-world problems with the power of physics, mat
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Aug 2018]</strong></td>
-        <td>Our paper 'A convex formulation of discrete tomography' has been submitted to IEEE Transacations on Computational Imaging. A preprint can be found <a href='https://arxiv.org/abs/1807.09196'>here</a>.</td>
+        <td valign="top"><strong>[Jun 2018]</strong></td>
+        <td>Our paper 'Invited talk titled <strong>Machine Learning 101</strong></td> delivered at Delft University of Technology on June 02.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2018]</strong></td>
