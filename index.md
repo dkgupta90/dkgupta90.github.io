@@ -37,7 +37,7 @@ I am passionate about solving real-world problems with the power of physics, mat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jun 2018]</strong></td>
-        <td>Our paper 'Invited talk titled <strong>Machine Learning 101</strong></td> delivered at Delft University of Technology on June 02.</td>
+        <td>Our paper 'Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 02.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2018]</strong></td>
