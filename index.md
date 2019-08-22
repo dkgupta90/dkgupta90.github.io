@@ -67,8 +67,8 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 </figure>
 
 <figure align="center" class="affils">
-    <figcaption>Utrecht University<br>2015-present</figcaption>
-    <figcaption>IIT Bombay<br>2010-2015</figcaption>
+    <figcaption>Royal Dutch Shell<br>2017-2019</figcaption>
+    <figcaption>IIT(ISM) Dhanbad<br>2008-2013</figcaption>
 </figure>
 
 <figure align="center" class="affils">
