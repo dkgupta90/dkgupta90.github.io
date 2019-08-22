@@ -20,7 +20,7 @@ I am passionate about solving real-world problems with the power of physics, mat
 Thesis: [Topology Optimization for High Resolution Designs](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research).  
 [<button type="button" class="btn btn-info">Thesis</button>](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research)
 
-2. <b>M.Sc. Tech (5 yr.) in Applied Geophysics from <a href=''>Indian Institute of Technology (ISM), Dhanbad</a>  
+2. M.Sc. Tech (5 yr.) in Applied Geophysics from <a href=''>Indian Institute of Technology (ISM), Dhanbad</a>  
 Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Characterization of Reservoirs.
 
 ----
