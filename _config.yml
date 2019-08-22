@@ -38,7 +38,7 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en
+    plus: 
     analytics: 
     verify:
     ad-client:
@@ -62,6 +62,6 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-
+  : https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
