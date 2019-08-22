@@ -5,11 +5,12 @@ tags: [deepak, gupta, home, tud, uva, computational imaging, machine learning, s
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
-I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. I am also involved in several research projects on application of these methods in the fields of medical imaging and geophysics.
+I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics.
 
-Earlier, I worked as a Research Scientist (Nov'17-Jan'19) in [Shell](https://www.shell.com/) based at their Technology Centre in Bangalore, India. I worked at the intersection of physics, mathematics and machine learning with a focus on automating parts of seismic processing steps in geophysics. 
 
 I am passionate about solving real-world problems with the power of physics, maths and machine learning. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
+
+[<button type="button" class="btn btn-info">Google Scholar>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
 
 ----
 
