@@ -10,7 +10,7 @@ I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](h
 
 I am passionate about solving real-world problems with the power of physics, maths and machine learning. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
 
-[<button type="button" class="btn btn-info">Google Scholar>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
+[<button type="button" class="btn btn-info">Google Scholar</button>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
 
 ----
 
