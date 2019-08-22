@@ -40,32 +40,12 @@ I am passionate about solving real-world problems with the power of physics, mat
         <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jun 2018]</strong></td>
+        <td valign="top"><strong>[Jun 2019]</strong></td>
         <td>Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 26.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2018]</strong></td>
-        <td>I'll be interning at <a href='http://www.merl.com/'><b>Mitsubishi Electrical Research Laboratories</b></a> (Boston, MA) with the <a href='http://www.merl.com/research/computational-sensing'>Computational Sensing Team</a> from May to September, 2018</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Mar 2018]</strong></td>
-        <td>Our paper on '<strong>decentralized full-waveform inversion</strong>' has been accepted for e-Poster at <a href='https://events.eage.org/2018/EAGE%20Annual%202018'><b>EAGE Annual Meeting</b></a>, 2018 in Copenhagen, Denmark</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Feb 2018]</strong></td>
-        <td>I received an internship opportunity with <a href='http://pnl.bwh.harvard.edu/'>Psychiatry Neuroscience Laboratory</a> at <a href='https://hms.harvard.edu/'><b>Harvard Medical School</b></a> in Boston, MA.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Jan 2018]</strong></td>
-        <td>Received <strong>SIAM Travel award</strong> to attend Imaging Science conference (SIAM-IS18) at Bologna, Italy</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Sep 2017]</strong></td>
-        <td>Successfully presented paper on '<strong>parametric level-set full-waveform inversion</strong>' at <a href='https://seg.org/Annual-Meeting-2017/'><b>SEG Annual Meeting</b></a> in Houston, TX</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2017]</strong></td>
-        <td>Received an invitation for the mini-symposium talk at <a href='https://www.siam-is18.dm.unibo.it/'><b>SIAM Conference on Imaging Science</b></a> in Bologna, Italy (scheduled June 2018)</td>
+        <td>I have joined <a href='https://ivi.fnwi.uva.nl/quva/'>QUVA Deep Vision Lab</a> at the <a href='https://www.uva.nl/'>University of Amsterdam</a> as a postdoctoral researcher with research focus on <b>Deep Learning</b> and <b>Computer Vision</b>.</td>
     </tr>
 </table>
 
