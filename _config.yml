@@ -38,11 +38,12 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    : "https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en"
+    plus: 
     analytics: 
     verify:
     ad-client:
     ad-slot:
+    scholar: "https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en"
   bing-verify:
   github: dkgupta90
   googlescholar: 
