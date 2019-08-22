@@ -7,20 +7,18 @@ comments: false
 ---
 I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. I am also involved in several research projects on application of these methods in the fields of medical imaging and geophysics.
 
-Earlier, I worked as a Research Scientist (Nov'17-Jan'19) in [Shell](https://www.shell.com/) based at their Technology Centre in Bangalore, India. I worked at the intersection of physics, mathematics and machine learning with a focus on automating parts of seismic processing steps in geophysics. I pursued by PhD research at [Structural Optimization and Mechanics (SOM)](https://www.tudelft.nl/3me/afdelingen/precision-and-microsystems-engineering-pme/research/structural-optimization-and-mechanics-som/) group of [Delft University of technology](https://www.tudelft.nl/en/) in Netherlands, and the focus of my research was on developing eficcient high-resolution topology optimization methods and their applications in improving performance of solar cells. A copy of my thesis can be obtained [here](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research). My PhD project was part of 'Computational Sciences for Energy Research' ([CSER](https://www.fom.nl/en/nwo-domain-science/collaboration-with-companies/cser-2/)), a research program funded jointly by [Shell](https://www.shell.com/) and [NWO](https://www.nwo.nl/en).
-
-I completed my joint BS and MS in geophysics from [Indian Institute of Technology (ISM), Dhanbad](https://www.iitism.ac.in), in 2013. My thesis project focused on application of soft computing methods for improved interpretation of geophysical data.
+Earlier, I worked as a Research Scientist (Nov'17-Jan'19) in [Shell](https://www.shell.com/) based at their Technology Centre in Bangalore, India. I worked at the intersection of physics, mathematics and machine learning with a focus on automating parts of seismic processing steps in geophysics. 
 
 I am passionate about solving real-world problems with the power of physics, maths and machine learning. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
 
 ----
 
 ### Education
-1. PhD in Computational Science from <a href='https://www.tudelft.nl/en/'>Delft University of Technology (2013-17)</a>  
+1. PhD in Computational Science from <a href='https://www.tudelft.nl/en/'>Delft University of Technology</a> (2013-17)  
 Thesis: [Topology Optimization for High Resolution Designs](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research).  
 [<button type="button" class="btn btn-info">Thesis</button>](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research)
 
-2. M.Sc. Tech (5 yr.) in Applied Geophysics from <a href=''>Indian Institute of Technology (ISM), Dhanbad (2008-13)</a>  
+2. M.Sc. Tech (5 yr.) in Applied Geophysics from <a href=''>Indian Institute of Technology (ISM), Dhanbad</a> (2008-13)  
 Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Characterization of Reservoirs.
 
 ----
