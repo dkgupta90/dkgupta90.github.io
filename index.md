@@ -63,7 +63,7 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 <h3 align="center">Affiliations</h3>
 <figure align="center" class="affils">
     <a href="https://www.shell.com/"><img src="/images/shell_logo-min.png"></a>
-    <a href="http://www.iitb.ac.in/"><img src="/images/iitb-logo.jpeg"></a>
+    <a href="http://www.iitb.ac.in/"><img src="/images/iitism.png"></a>
 </figure>
 
 <figure align="center" class="affils">
