@@ -16,18 +16,34 @@ I am passionate about solving real-world problems with the power of physics, mat
 ----
 
 ### Recent Publications
-1. Deepak K. Gupta, M. Langelaar and F. van Keulen  
+1. Efstratios Gavves, Ran Tao, <b>Deepak K. Gupta</b>, Arnold W. M. Smeulders  
+[Model Decay in Long-Term Tracking](https://arxiv.org/abs/1908.01603)  
+#*IEEE Transactions on Computational Imaging (TCI), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1908.01603)
+#[<button type="button" class="btn btn-warning">Project Page</button>](https://www.researchgate.net/project/Parametric-Level-Set-Full-Waveform-Inversion)
+#[<button type="button" class="btn btn-info">Paper</button>](/reports/TCI2640761.pdf){:target="_blank"}
+#[<button type="button" class="btn btn-danger">Code</button>](https://github.com/ajinkyakadu125/ParametricLevelSet)  
+
+1. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar  
+[Design and analysis adaptivity in multi-resolution topology optimization](https://arxiv.org/abs/1811.09821)  
+#*IEEE Transactions on Computational Imaging (TCI), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1811.09821)
+#[<button type="button" class="btn btn-warning">Project Page</button>](https://www.researchgate.net/project/Parametric-Level-Set-Full-Waveform-Inversion)
+#[<button type="button" class="btn btn-info">Paper</button>](/reports/TCI2640761.pdf){:target="_blank"}
+#[<button type="button" class="btn btn-danger">Code</button>](https://github.com/ajinkyakadu125/ParametricLevelSet)  
+
+3. <b>Deepak K. Gupta</b>, Matthijs Langelaar, Fred van Keulen  
 [QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
 *Structural and Multidisplinary Optimization (SMO), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/content/pdf/10.1007%2Fs00158-018-2048-6.pdf){:target="_blank"}  
-
-1. Ajinkya Kadu, Tristan van Leeuwen, Wim Mulder  
-[Salt Reconstruction in Full Waveform Inversion with a Parametric Level-Set Method](http://ieeexplore.ieee.org/document/7784771/)  
-*IEEE Transactions on Computational Imaging (TCI), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1610.00251)
-[<button type="button" class="btn btn-warning">Project Page</button>](https://www.researchgate.net/project/Parametric-Level-Set-Full-Waveform-Inversion)
-[<button type="button" class="btn btn-info">Paper</button>](/reports/TCI2640761.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/ajinkyakadu125/ParametricLevelSet)  
+[<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/content/pdf/10.1007%2Fs00158-018-2048-6.pdf){:target="_blank"}
+  
+#1. Ajinkya Kadu, Tristan van Leeuwen, Wim Mulder  
+#[Salt Reconstruction in Full Waveform Inversion with a Parametric Level-Set Method](http://ieeexplore.ieee.org/document/7784771/)  
+#*IEEE Transactions on Computational Imaging (TCI), 2017.*  
+#[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1610.00251)
+#[<button type="button" class="btn btn-warning">Project Page</button>](https://www.researchgate.net/project/Parametric-Level-Set-Full-Waveform-Inversion)
+#[<button type="button" class="btn btn-info">Paper</button>](/reports/TCI2640761.pdf){:target="_blank"}
+#[<button type="button" class="btn btn-danger">Code</button>](https://github.com/ajinkyakadu125/ParametricLevelSet)  
 
 ----
 
