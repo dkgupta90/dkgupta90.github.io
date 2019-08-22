@@ -38,7 +38,7 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: "https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en"
+    : "https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en"
     analytics: 
     verify:
     ad-client:
