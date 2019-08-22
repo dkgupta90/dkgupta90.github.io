@@ -13,6 +13,26 @@ I am passionate about solving real-world problems with the power of physics, mat
 
 ----
 
+<h3 align="center">News</h3>
+<table>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Jul 2019]</strong></td>
+        <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jun 2019]</strong></td>
+        <td>Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 26.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2018]</strong></td>
+        <td>I have joined <a href='https://ivi.fnwi.uva.nl/quva/'>QUVA Deep Vision Lab</a> at the <a href='https://www.uva.nl/'>University of Amsterdam</a> as a postdoctoral researcher with research focus on <b>Deep Learning</b> and <b>Computer Vision</b>.</td>
+    </tr>
+</table>
+
+
+----
 ### Education
 1. PhD in Computational Science from <a href='https://www.tudelft.nl/en/'>Delft University of Technology</a> (2013-17)  
 Thesis: [Topology Optimization for High Resolution Designs](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research).  
@@ -36,27 +56,6 @@ Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Char
 [QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
 *Structural and Multidisplinary Optimization (SMO), 2018*  
 [<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/content/pdf/10.1007%2Fs00158-018-2048-6.pdf){:target="_blank"} 
-
-----
-
-<h3 align="center">News</h3>
-<table>
-    <col width="15%">
-    <col width="85%">
-    <tr>
-        <td valign="top"><strong>[Jul 2019]</strong></td>
-        <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 26.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Mar 2018]</strong></td>
-        <td>I have joined <a href='https://ivi.fnwi.uva.nl/quva/'>QUVA Deep Vision Lab</a> at the <a href='https://www.uva.nl/'>University of Amsterdam</a> as a postdoctoral researcher with research focus on <b>Deep Learning</b> and <b>Computer Vision</b>.</td>
-    </tr>
-</table>
-
 
 ----
 
