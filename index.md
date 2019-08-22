@@ -37,7 +37,7 @@ I am passionate about solving real-world problems with the power of physics, mat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2018]</strong></td>
-        <td>Preprint of our paper 'Model Decay in Long-Term tracking' is now online and can be accessed here</td>
+        <td>Preprint of our paper<b>Model Decay in Long-Term tracking<b> is now online and can be accessed <a href = https://arxiv.org/abs/1908.01603>here</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jun 2018]</strong></td>
