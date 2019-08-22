@@ -44,17 +44,17 @@ Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Char
 ----
 
 ### Recent Publications
-1. Efstratios Gavves, Ran Tao, <b>Deepak K. Gupta</b>, Arnold W. M. Smeulders  
+1. Efstratios Gavves, Ran Tao, <b>Deepak K. Gupta</b>, Arnold W. M. Smeulders, 2019  
 [Model Decay in Long-Term Tracking](https://arxiv.org/abs/1908.01603)  
 [<button type="button" class="btn btn-info">ArXiv:1908.01603</button>](https://arxiv.org/abs/1908.01603)
 
-2. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar  
+2. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar, 2019  
 [Design and analysis adaptivity in multi-resolution topology optimization](https://arxiv.org/abs/1811.09821)  
 [<button type="button" class="btn btn-info">ArXiv:1811.09821</button>](https://arxiv.org/abs/1811.09821)
 
-3. <b>Deepak K. Gupta</b>, Matthijs Langelaar, Fred van Keulen  
+3. <b>Deepak K. Gupta</b>, Matthijs Langelaar, Fred van Keulen, 2018  
 [QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
-*Structural and Multidisplinary Optimization (SMO), 2018*  
+Journal: *Structural and Multidisplinary Optimization (SMO)*  
 [<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/content/pdf/10.1007%2Fs00158-018-2048-6.pdf){:target="_blank"} 
 
 ----
