@@ -15,14 +15,24 @@ I am passionate about solving real-world problems with the power of physics, mat
 
 ----
 
+### Education
+1. PhD in Computational Science from <a href='https://www.tudelft.nl/en/'>Delft University of Technology</a>  
+Thesis: [Topology Optimization for High Resolution Designs](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research).  
+[<button type="button" class="btn btn-info">Thesis</button>](https://repository.tudelft.nl/islandora/object/uuid:51dde3f6-2a38-47a0-b719-420ff74ded5d?collection=research)
+
+2. <b>M.Sc. Tech (5 yr.) in Applied Geophysics from <a href=''>Indian Institute of Technology (ISM), Dhanbad</a>  
+Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Characterization of Reservoirs.
+
+----
+
 ### Recent Publications
 1. Efstratios Gavves, Ran Tao, <b>Deepak K. Gupta</b>, Arnold W. M. Smeulders  
 [Model Decay in Long-Term Tracking](https://arxiv.org/abs/1908.01603)  
-[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1908.01603)
+[<button type="button" class="btn btn-info">ArXiv:1908.01603</button>](https://arxiv.org/abs/1908.01603)
 
 2. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar  
 [Design and analysis adaptivity in multi-resolution topology optimization](https://arxiv.org/abs/1811.09821)  
-[<button type="button" class="btn btn-info">ArXiv:1610.00251</button>](https://arxiv.org/abs/1811.09821)
+[<button type="button" class="btn btn-info">ArXiv:1811.09821</button>](https://arxiv.org/abs/1811.09821)
 
 3. <b>Deepak K. Gupta</b>, Matthijs Langelaar, Fred van Keulen  
 [QR-patterns: artefacts in multiresolution topology optimization](https://link.springer.com/article/10.1007/s00158-018-2048-6)  
