@@ -19,7 +19,7 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Aug 2019]</strong></td>
-        <td>Our paper titled <b>Model Decay in Long-Term tracking</b> has been accepted in <a href='http://fb.eage.org/'>First Break</a> magazine of <a href='https://www.eage.org/'>EAGE</a> and can be accessed <a href='http://fb.eage.org/publication/content?id=99087'>here</a>.</td>
+        <td>Our paper titled <b>Spatial aliasing removal using deep learning super-resolution</b> has been accepted in <a href='http://fb.eage.org/'>First Break</a> magazine of <a href='https://www.eage.org/'>EAGE</a> and can be accessed <a href='http://fb.eage.org/publication/content?id=99087'>here</a>.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2019]</strong></td>
