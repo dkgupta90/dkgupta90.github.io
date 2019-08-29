@@ -5,10 +5,9 @@ tags: [deepak, gupta, home, tud, uva, computational imaging, machine learning, s
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
-I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics.
+I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. 
 
-
-I am passionate about solving real-world problems with the power of physics, maths and machine learning. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
+I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
 
 [<button type="button" class="btn btn-info">Google Scholar</button>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
 
@@ -19,6 +18,10 @@ I am passionate about solving real-world problems with the power of physics, mat
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Aug 2019]</strong></td>
+        <td>Our paper titled <b>Model Decay in Long-Term tracking</b> has been accepted in <a href='http://fb.eage.org/'>First Break</a> magazine of <a href='https://www.eage.org/'>EAGE</a> and can be accessed <a href='http://fb.eage.org/publication/content?id=99087'>here</a>.</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jul 2019]</strong></td>
         <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
     </tr>
@@ -27,7 +30,7 @@ I am passionate about solving real-world problems with the power of physics, mat
         <td>Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 26.</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Mar 2018]</strong></td>
+        <td valign="top"><strong>[Jan 2019]</strong></td>
         <td>I have joined <a href='https://ivi.fnwi.uva.nl/quva/'>QUVA Deep Vision Lab</a> at the <a href='https://www.uva.nl/'>University of Amsterdam</a> as a postdoctoral researcher with research focus on <b>Deep Learning</b> and <b>Computer Vision</b>.</td>
     </tr>
 </table>
