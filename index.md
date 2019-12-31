@@ -81,16 +81,13 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 </figure>
 
 <figure align="center" class="affils">
-    <a href="http://www.merl.com/"><img src="/images/merl2.png"></a>
-    <a href="https://www.slim.eos.ubc.ca/"><img src="/images/ubc-logo.png"></a>
-    <a href="https://honeywell.com/country/in/About/Pages/HTS.aspx"><img src="/images/honeywell-logo.png"></a>
-    <a href="http://www.rediff.com/"><img src="/images/rediff-logo.png"></a>
+    <a href="https://sydney.edu.au"><img src="/images/usydney-logo.png"></a>
+    <a href="https://www.software.slb.com"><img src="/images/slb-logo.png"></a>
 </figure>
 
 <figure align="center" class="affils">
     <figcaption>Uni. Sydney<br>Winter 2011-12</figcaption>
-    <figcaption>SLIM<br>Schlumberger<br>Summer 2012</figcaption>
-    <figcaption>Honeywell Technology Solutions<br>Summer 2013</figcaption>
+    <figcaption>Schlumberger<br>Summer 2012</figcaption>
 </figure>
 
 ----
