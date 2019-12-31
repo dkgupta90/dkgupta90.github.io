@@ -12,11 +12,22 @@ comments: false
 1. TBA
 
 #### 2018-19
-1. [Project AI](): Course coordinator and Assessor
-1. [Computer Vision 2](http://www.staff.science.uu.nl/~bisse101/Education/ISC/isc.html): Teaching Assistant
+1. [Project AI](): Course coordinator and Assessor (M.Sc. level)
+1. [Computer Vision 2](http://www.staff.science.uu.nl/~bisse101/Education/ISC/isc.html): Teaching Assistant (M. Sc. level)
 
 ----
 
 ### At Delft University of Technology
-1. Introduction to [Aerospace Engineering](http://asc.iitb.ac.in/academic/CourseRegistration/Common/crsedetail.jsp?ccd=AE%20153)
-1. [Engineering Design Optimization]()
+
+#### 2016-17
+1. [Engineering Optimization](): Teaching Assistant (M.Sc. level)
+
+#### 2015-16
+1. [Engineering Optimization](): Teaching Assistant (M.Sc. level)
+1. [Structural Optimization](): Teaching Assistant (Topic course for entry PhD level)
+
+#### 2014-15
+1. [Fundamentals of Mechanics](): Teaching Assistant (B.Sc. level)
+
+#### 2013-14
+1. [Fundamentals of Mechanics](): Teaching Assistant (B.Sc. level)
