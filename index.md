@@ -29,9 +29,8 @@ I am also involved in research projects at the intersection of physics, mathemat
         <td valign="top"><strong>[Jul 2019]</strong></td>
         <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
     </tr>
-    More news <a href='https://dkgupta90.github.io/news/'>here</a>.
 </table>
-
+More news <a href='https://dkgupta90.github.io/news/'>here</a>.
 
 ----
 ### Education
