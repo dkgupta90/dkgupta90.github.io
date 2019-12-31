@@ -13,13 +13,13 @@ I am also involved in research projects at the intersection of physics, mathemat
 
 ----
 
-<h3 align="center">News</h3>
+<h3 align="center">Recent News</h3>
 <table>
     <col width="15%">
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Our short paper titled <b>Tracking-assisted segmentation of biological cells</b> has been accepted at <a href='https://sites.google.com/view/med-neurips-2019'>Med-NeurIPS</a> workshop of <a href='https://nips.cc/'>NeurIPS-2019</a> conference.</td>
+        <td>Our short paper titled <b>Tracking-assisted segmentation of biological cells</b> has been accepted at <a href='https://sites.google.com/view/med-neurips-2019'>Med-NeurIPS</a> workshop of <a href='https://nips.cc/'>NeurIPS-2019</a> conference and can be accessed <a href='https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf'>here</a>.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2019]</strong></td>
