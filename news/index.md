@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Blog
-tags: [deepak, gupta, uu, blog]
+title: News
+tags: [deepak, gupta, uva, news]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-<h3 align="center">News</h3>
 <table>
     <col width="15%">
     <col width="85%">
