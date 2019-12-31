@@ -7,7 +7,7 @@ comments: false
 ---
 I am currently working as a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). My current research focus lies in deep learning and computer vision, and I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. 
 
-I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities]().
+I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities](https://dkgupta90.github.io/opportunities/).
 
 [<button type="button" class="btn btn-info">Google Scholar</button>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
 
