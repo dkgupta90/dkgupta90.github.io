@@ -68,7 +68,7 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
     <a href="https://www.uva.nl/"><img src="/images/uva-logo.png"></a>
     <a href="https://www.shell.com/"><img src="/images/shell_logo-min.png"></a>
     <a href="https://www.tudelft.nl/"><img src="/images/tud-logo.png"></a>
-    <a href="https://www.nwo.nl/"><img src="/images/nwo-logo.png"></a>
+    <a href="https://www.nwo.nl/"><img src="/images/nwo-logo.jpg"></a>
     <a href="http://www.iitism.ac.in/"><img src="/images/iitism.png"></a>
 </figure>
 
