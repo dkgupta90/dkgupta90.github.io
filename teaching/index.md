@@ -6,18 +6,17 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-### At Utrecht University
+### At University of Amsterdam
 
-#### 2017-18  
-1. [Numerical Analysis]()
-1. [Introduction to Scientific Computing](http://www.staff.science.uu.nl/~bisse101/Education/ISC/isc.html)
+#### 2019-20
+1. TBA
 
-##### 2016-17  
-1. [Numerical Analysis]()
-1. [Introduction to Scientific Computing](https://www.staff.science.uu.nl/~zegel101/isc.html)
+#### 2018-19
+1. [Project AI](): Course coordinator and Assessor
+1. [Computer Vision 2](http://www.staff.science.uu.nl/~bisse101/Education/ISC/isc.html): Teaching Assistant
 
 ----
 
-### At IIT Bombay
+### At Delft University of Technology
 1. Introduction to [Aerospace Engineering](http://asc.iitb.ac.in/academic/CourseRegistration/Common/crsedetail.jsp?ccd=AE%20153)
 1. [Engineering Design Optimization]()
