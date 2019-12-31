@@ -88,10 +88,9 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 </figure>
 
 <figure align="center" class="affils">
-    <figcaption>Uni. Sydney<br>Summer 2018</figcaption>
-    <figcaption>SLIM<br>Schlumberger<br>Winter 2016</figcaption>
+    <figcaption>Uni. Sydney<br>Winter 2011-12</figcaption>
+    <figcaption>SLIM<br>Schlumberger<br>Summer 2012</figcaption>
     <figcaption>Honeywell Technology Solutions<br>Summer 2013</figcaption>
-    <figcaption>Rediff.com<br>Summer 2014</figcaption>
 </figure>
 
 ----
