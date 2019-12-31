@@ -46,7 +46,8 @@ Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Char
 
 ### Recent Publications
 1. <b>Deepak K. Gupta</b>, Nathan de Bruijn, Andreas Panteli, Efstratios Gavves, 2019  
-[Tracking-Assisted Segmentation of Biological Cells](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf)  
+[Tracking-Assisted Segmentation of Biological Cells](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf)
+Workshop: *Medical Imaging at Neurips (Med-NeurIPS) 2019*    
 [<button type="button" class="btn btn-info">Paper</button>](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf)
 [<button type="button" class="btn btn-info">ArXiv:1910.08735</button>](https://arxiv.org/abs/1910.08735)
 
@@ -55,7 +56,9 @@ Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Char
 [<button type="button" class="btn btn-info">ArXiv:1908.01603</button>](https://arxiv.org/abs/1908.01603)
 
 2. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar, 2019  
-[Design and analysis adaptivity in multi-resolution topology optimization](https://arxiv.org/abs/1811.09821)  
+[Design and analysis adaptivity in multi-resolution topology optimization](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.6217) 
+Journal: *International Journal for Numerical Methods in Engineering (IJNME)*   
+[<button type="button" class="btn btn-info">Paper</button>](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.6217)
 [<button type="button" class="btn btn-info">ArXiv:1811.09821</button>](https://arxiv.org/abs/1811.09821)
 
 3. <b>Deepak K. Gupta</b>, Matthijs Langelaar, Fred van Keulen, 2018  
