@@ -29,6 +29,7 @@ I am also involved in research projects at the intersection of physics, mathemat
         <td valign="top"><strong>[Jul 2019]</strong></td>
         <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
     </tr>
+    More news <a href='https://dkgupta90.github.io/news/'>here</a>.
 </table>
 
 
@@ -44,6 +45,10 @@ Thesis: Soft Computing for Intelligent Interpretation of Petroleum Data and Char
 ----
 
 ### Recent Publications
+1. <b>Deepak K. Gupta</b>, Nathan de Bruijn, Andreas Panteli, Efstratios Gavves, 2019  
+[Tracking-Assisted Segmentation of Biological Cells](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf)  
+[<button type="button" class="btn btn-info">Paper</button>](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf)[<button type="button" class="btn btn-info">ArXiv:1910.08735</button>](https://arxiv.org/abs/1910.08735)
+
 1. Efstratios Gavves, Ran Tao, <b>Deepak K. Gupta</b>, Arnold W. M. Smeulders, 2019  
 [Model Decay in Long-Term Tracking](https://arxiv.org/abs/1908.01603)  
 [<button type="button" class="btn btn-info">ArXiv:1908.01603</button>](https://arxiv.org/abs/1908.01603)
