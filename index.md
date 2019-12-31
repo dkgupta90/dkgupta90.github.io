@@ -29,14 +29,6 @@ I am also involved in research projects at the intersection of physics, mathemat
         <td valign="top"><strong>[Jul 2019]</strong></td>
         <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
     </tr>
-    <tr>
-        <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Invited talk titled <strong>Machine Learning 101</strong> delivered at Delft University of Technology on June 26.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Jan 2019]</strong></td>
-        <td>I have joined <a href='https://ivi.fnwi.uva.nl/quva/'>QUVA Deep Vision Lab</a> at the <a href='https://www.uva.nl/'>University of Amsterdam</a> as a postdoctoral researcher with research focus on <b>Deep Learning</b> and <b>Computer Vision</b>.</td>
-    </tr>
 </table>
 
 
