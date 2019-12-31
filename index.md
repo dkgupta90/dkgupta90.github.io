@@ -18,6 +18,10 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Nov 2019]</strong></td>
+        <td>Our short paper titled <b>Tracking-assisted segmentation of biological cells</b> has been accepted at <a href='https://sites.google.com/view/med-neurips-2019'>Med-NeurIPS</a> workshop of <a href='https://nips.cc/'>NeurIPS-2019</a> conference.</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Aug 2019]</strong></td>
         <td>Our paper titled <b>Spatial aliasing removal using deep learning super-resolution</b> has been accepted in <a href='http://fb.eage.org/'>First Break</a> magazine of <a href='https://www.eage.org/'>EAGE</a> and can be accessed <a href='http://fb.eage.org/publication/content?id=99087'>here</a>.</td>
     </tr>
