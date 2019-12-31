@@ -68,13 +68,15 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
     <a href="https://www.uva.nl/"><img src="/images/uva-logo.png"></a>
     <a href="https://www.shell.com/"><img src="/images/shell_logo-min.png"></a>
     <a href="https://www.tudelft.nl/"><img src="/images/tud-logo.png"></a>
+    <a href="https://www.nwo.nl/"><img src="/images/nwo-logo.png"></a>
     <a href="http://www.iitism.ac.in/"><img src="/images/iitism.png"></a>
 </figure>
 
 <figure align="center" class="affils">
-    <figcaption>Uiversity of Amsterdam<br>2019-present</figcaption>
+    <figcaption>Uni. Amsterdam<br>2019-present</figcaption>
     <figcaption>Royal Dutch Shell<br>2017-2019</figcaption>
     <figcaption>TU Delft<br>2013-2017</figcaption>
+    <figcaption>NWO Netherlands<br>2013-2017</figcaption>
     <figcaption>IIT(ISM) Dhanbad<br>2008-2013</figcaption>
 </figure>
 
@@ -86,8 +88,8 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 </figure>
 
 <figure align="center" class="affils">
-    <figcaption>Mitsubishi Electric Research Labs<br>Summer 2018</figcaption>
-    <figcaption>SLIM<br>University of British Columbia<br>Winter 2016</figcaption>
+    <figcaption>Uni. Sydney<br>Summer 2018</figcaption>
+    <figcaption>SLIM<br>Schlumberger<br>Winter 2016</figcaption>
     <figcaption>Honeywell Technology Solutions<br>Summer 2013</figcaption>
     <figcaption>Rediff.com<br>Summer 2014</figcaption>
 </figure>
