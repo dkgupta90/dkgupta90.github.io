@@ -65,12 +65,16 @@ Journal: *Structural and Multidisplinary Optimization (SMO)*
 
 <h3 align="center">Affiliations</h3>
 <figure align="center" class="affils">
+    <a href="https://www.uva.nl/"><img src="/images/uva-logo.png"></a>
     <a href="https://www.shell.com/"><img src="/images/shell_logo-min.png"></a>
-    <a href="http://www.iitb.ac.in/"><img src="/images/iitism.png"></a>
+    <a href="https://www.tudelft.nl/"><img src="/images/tud-logo.png"></a>
+    <a href="http://www.iitism.ac.in/"><img src="/images/iitism.png"></a>
 </figure>
 
 <figure align="center" class="affils">
+    <figcaption>Uiversity of Amsterdam<br>2019-present</figcaption>
     <figcaption>Royal Dutch Shell<br>2017-2019</figcaption>
+    <figcaption>TU Delft<br>2013-2017</figcaption>
     <figcaption>IIT(ISM) Dhanbad<br>2008-2013</figcaption>
 </figure>
 
