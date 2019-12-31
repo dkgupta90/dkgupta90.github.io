@@ -56,6 +56,7 @@ Workshop: *Medical Imaging at NeurIPS (Med-NeurIPS) 2019*
 
 2. <b>Deepak K. Gupta</b>, Fred van Keulen, Matthijs Langelaar, 2019  
 [Design and analysis adaptivity in multi-resolution topology optimization](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.6217) 
+
 Journal: *International Journal for Numerical Methods in Engineering (IJNME)*   
 [<button type="button" class="btn btn-info">Paper</button>](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.6217)
 [<button type="button" class="btn btn-info">ArXiv:1811.09821</button>](https://arxiv.org/abs/1811.09821)
