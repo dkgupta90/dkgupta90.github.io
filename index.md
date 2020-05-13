@@ -18,8 +18,8 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Two full papers accepted at <a href="https://2020.midl.io">MIDL2020</a>. The two papers <b>Title 1</b> and <b>Title 2</b> can be accessed at <a href='https://sites.google.com/view/med-neurips-2019'>here</a>  and <a href='https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf'>here</a>, respectively.</td>
+        <td valign="top"><strong>[Apr 2020]</strong></td>
+        <td>Two full papers accepted at <a href="https://2020.midl.io">MIDL2020</a>. The two papers <b>Title 1</b> and <b>Title 2</b> can be accessed at <https://openreview.net/forum?id=V3ZrDLgNgu>here</a>  and <https://openreview.net/forum?id=EKu4FU5s4>here</a>, respectively.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
