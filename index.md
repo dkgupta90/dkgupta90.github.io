@@ -18,8 +18,9 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Two full papers accepted at <a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>. The two papers <b>Siamese Tracking of Cell Behaviour Patterns</b> and <b>Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</b> can be accessed <a href = "https://openreview.net/forum?id=V3ZrDLgNgu">here</a>  and <a href = "https://openreview.net/forum?id=EKu4FU5s4">here</a>, respectively.</td>
+        <td valign="top"><strong>[Jul 2020]</strong></td>
+        <td>Two full papers accepted at <a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>. The two papers <b>Tackling Occlusion in Siamese Tracking with Structured Dropouts
+</b> and <b>Model decay in long-term tracking</b> can be accessed <a href = "https://arxiv.org/abs/2006.16571">here</a>  and <a href = "https://arxiv.org/abs/1908.01603">here</a>, respectively.</td>
     </tr>    
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
