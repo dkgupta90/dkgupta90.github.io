@@ -30,18 +30,6 @@ I am also involved in research projects at the intersection of physics, mathemat
         <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Two full papers accepted at <a href="https://2020.midl.io">MIDL2020</a>. The two papers <b>Siamese Tracking of Cell Behaviour Patterns</b> and <b>Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</b> can be accessed <a href = "https://openreview.net/forum?id=V3ZrDLgNgu">here</a>  and <a href = "https://openreview.net/forum?id=EKu4FU5s4">here</a>, respectively.</td>
     </tr>
-    <tr>
-        <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Our short paper titled <b>Tracking-assisted segmentation of biological cells</b> has been accepted at <a href='https://sites.google.com/view/med-neurips-2019'>Med-NeurIPS</a> workshop of <a href='https://nips.cc/'>NeurIPS-2019</a> conference and can be accessed <a href='https://profs.etsmtl.ca/hlombaert/public/medneurips2019/85_CameraReadySubmission_nips_2018.pdf'>here</a>.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2019]</strong></td>
-        <td>Our paper titled <b>Spatial aliasing removal using deep learning super-resolution</b> has been accepted in <a href='http://fb.eage.org/'>First Break</a> magazine of <a href='https://www.eage.org/'>EAGE</a> and can be accessed <a href='http://fb.eage.org/publication/content?id=99087'>here</a>.</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Jul 2019]</strong></td>
-        <td>Preprint of our paper <b>Model Decay in Long-Term tracking</b> is now online and can be accessed <a href='https://arxiv.org/abs/1908.01603'>here</a>.</td>
-    </tr>
 </table>
 More news <a href='https://dkgupta90.github.io/news/'>here</a>.
 
