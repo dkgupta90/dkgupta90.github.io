@@ -17,10 +17,7 @@ I am also involved in research projects at the intersection of physics, mathemat
 <table>
     <col width="15%">
     <col width="85%">
-    <tr>
-        <td valign="top"><strong>[Oct 2020]</strong></td>
-        <td>Our paper titled <b>Hard occlusions in visual object tracking</b> is accepted at <b>RLQ-TOD wotkshop of ECCV</> and can be accessed <a href="https://link.springer.com/chapter/10.1007/978-3-030-68238-5_22">here</a>. We show that the current tracking benchmarks are not meant design trackers robust to occlusions.</td>
-    </tr>
+
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>Preprint of our paper titled <b>HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs </b> is now available online and can be accessed  <a href="https://arxiv.org/abs/2010.04558">here</a>. </td>
