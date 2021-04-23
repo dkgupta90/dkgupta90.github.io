@@ -10,9 +10,21 @@ comments: true
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Mar 2021]</strong></td>
+        <td>Paper titled <b>Rotation Equivariant Siamese Networks for Tracking</b> is accepted at <b>CVPR 2021</b> and can be accessed  <a href="https://arxiv.org/abs/2012.13078">here</a>. </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td>Paper titled <b>ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations</b> is accepted at <b>ICLR 2021</b> and can be accessed  <a href="https://openreview.net/forum?id=xCxXwTzx4L1">here</a>. </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>Preprint of our paper titled <b>HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs </b> is now available online and can be accessed  <a href="https://arxiv.org/abs/2010.04558">here</a>. </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2020]</strong></td>
+        <td>Our paper titled <b>Hard occlusions in visual object tracking</b> is accepted at <b>RLQ-TOD workshop of ECCV</b> and can be accessed <a href="https://link.springer.com/chapter/10.1007/978-3-030-68238-5_22">here</a>. </td>
+    </tr>     
     <tr>
         <td valign="top"><strong>[Jul 2020]</strong></td>
         <td>Two full papers accepted at <a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>. The two papers <b>Tackling Occlusion in Siamese Tracking with Structured Dropouts

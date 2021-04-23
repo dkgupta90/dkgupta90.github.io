@@ -19,7 +19,7 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2021]</strong></td>
-        <td>Paper titled <b>Rotation Equivariant Siamese Networks for Tracking/b> is accepted at <b>CVPR 2021</b> and can be accessed  <a href="https://arxiv.org/abs/2012.13078">here</a>. </td>
+        <td>Paper titled <b>Rotation Equivariant Siamese Networks for Tracking</b> is accepted at <b>CVPR 2021</b> and can be accessed  <a href="https://arxiv.org/abs/2012.13078">here</a>. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
