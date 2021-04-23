@@ -25,23 +25,6 @@ I am also involved in research projects at the intersection of physics, mathemat
         <td valign="top"><strong>[Jan 2021]</strong></td>
         <td>Paper titled <b>ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations</b> is accepted at <a href="https://iclr.cc/">ICLR 2021</a> and can be accessed  <a href="https://openreview.net/forum?id=xCxXwTzx4L1">here</a>. </td>
     </tr>
-    <tr>
-        <td valign="top"><strong>[Oct 2020]</strong></td>
-        <td>Preprint of our paper titled <b>HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs </b> is now available online and can be accessed  <a href="https://arxiv.org/abs/2010.04558">here</a>. </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2020]</strong></td>
-        <td>Our paper titled <b>Hard occlusions in visual object tracking</b> is accepted at <a href="https://rlq-tod.github.io/">RLQ-TOD workshop of ECCV</a> and can be accessed <a href="https://link.springer.com/chapter/10.1007/978-3-030-68238-5_22">here</a>. </td>
-    </tr>    
-    <tr>
-        <td valign="top"><strong>[Jul 2020]</strong></td>
-        <td>Two full papers accepted at <a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>. The two papers <b>Tackling Occlusion in Siamese Tracking with Structured Dropouts
-</b> and <b>Model decay in long-term tracking</b> can be accessed <a href = "https://arxiv.org/abs/2006.16571">here</a>  and <a href = "https://arxiv.org/abs/1908.01603">here</a>, respectively.</td>
-    </tr>    
-    <tr>
-        <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Two full papers accepted at <a href="https://2020.midl.io">MIDL2020</a>. The two papers <b>Siamese Tracking of Cell Behaviour Patterns</b> and <b>Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</b> can be accessed <a href = "https://openreview.net/forum?id=V3ZrDLgNgu">here</a>  and <a href = "https://openreview.net/forum?id=EKu4FU5s4">here</a>, respectively.</td>
-    </tr>
 </table>
 More news <a href='https://dkgupta90.github.io/news/'>here</a>.
 
