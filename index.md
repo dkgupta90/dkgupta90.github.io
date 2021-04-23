@@ -17,7 +17,10 @@ I am also involved in research projects at the intersection of physics, mathemat
 <table>
     <col width="15%">
     <col width="85%">
-
+        <tr>
+        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td>Preprint of our paper titled <b>HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs </b> is now available online and can be accessed  <a href="https://arxiv.org/abs/2010.04558">here</a>. </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>Preprint of our paper titled <b>HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs </b> is now available online and can be accessed  <a href="https://arxiv.org/abs/2010.04558">here</a>. </td>
