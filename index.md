@@ -5,9 +5,9 @@ tags: [deepak, gupta, home, tud, uva, computational imaging, machine learning, s
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
-I am currently working as a Research Scientist at <a href="transmute.ai">Transmute AI Research</a> solving fundamental and applied problems at the intersection of deep learning and computer vision. Earlier, I was a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). I am particularly interested in developing efficient algorithms for object tracking and segmentation in videos. 
+I am currently working as a Research Scientist at <a href="transmute.ai">Transmute AI Research</a> solving fundamental and applied problems at the intersection of deep learning and computer vision. Earlier, I was a postdoctoral researcher affiliated with [QUVA Lab](https://ivi.fnwi.uva.nl/quva/) and [Informatics Institute](https://ivi.uva.nl/), at [University of Amsterdam](https://www.uva.nl/en). I am primarily interested in developing algorithms for efficient deep learning and computer vision. 
 
-I am primarily interested in developing algorithms for efficient deep learning and computer vision. I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities](https://dkgupta90.github.io/opportunities/). 
+I am also involved in research projects at the intersection of physics, mathematics and machine learning focused towads applications in medical imaging and geophysics. If you would like to collaborate on exciting research problems from these domains, please drop me an email. Regarding internships or graduation projects with me, check these [opportunities](https://dkgupta90.github.io/opportunities/). 
 
 [<button type="button" class="btn btn-info">Google Scholar</button>](https://scholar.google.co.in/citations?user=Nsxpe_kAAAAJ&hl=en)
 
