@@ -19,7 +19,7 @@ I am also involved in research projects at the intersection of physics, mathemat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Apr 2021]</strong></td>
-        <td>Paper titled <b>Improving solar cell metallization designs using convolutional neural networks</b> is accepted at <a href="https://simdl.github.io/">SimDL workshop of ICLR 2021</a> and can be accessed  <a href="https://arxiv.org/abs/2104.04017">here</a>. </td>
+        <td><span style="color:MediumSeaGreen;">[NEW]</span>Paper titled <b>Improving solar cell metallization designs using convolutional neural networks</b> is accepted at <a href="https://simdl.github.io/">SimDL workshop of ICLR 2021</a> and can be accessed  <a href="https://arxiv.org/abs/2104.04017">here</a>. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2021]</strong></td>
