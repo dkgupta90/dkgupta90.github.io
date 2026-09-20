@@ -8,9 +8,9 @@ const experience = [
     role: 'Applied Science Manager, Model Compression',
     location: 'Dubai, UAE',
     summary:
-      "Leads the ML research organisation building Amazon's internal model-compression platform within the hardware–software co-design initiative, directing research strategy and platform adoption across product, platform and hardware teams.",
+      "Leads a team of ML scientists within Amazon's ML research organisation, building the internal model-compression platform as part of the hardware–software co-design initiative and working with product, platform and hardware teams on adoption.",
     detail:
-      'Grew a team of 10+ applied scientists across India, Europe and the US, with team research published at CVPR 2026 and ICML 2026.',
+      'Grew a team of 10+ ML scientists across India, Europe and the US, with team research published at CVPR 2026 and ICML 2026.',
   },
   {
     dates: 'Aug 2023 — Apr 2025',
@@ -133,8 +133,8 @@ export default function Home() {
         <section id="about" className="about-section">
           <p className="page-kicker">Applied science · Efficient AI</p>
           <h1>Deepak K. Gupta</h1>
-          <p className="intro">I lead applied-science teams working on efficient AI, connecting machine-learning research with systems that can be deployed in practice.</p>
-          <p>I am an Applied Science Manager at Amazon, where I lead a team of 10+ applied scientists across India, Europe and the US working on model compression. I previously served as adjunct faculty at IIT (ISM) Dhanbad.</p>
+          <p className="intro">I lead a team of ML scientists working on efficient AI, connecting machine-learning research with systems that can be deployed in practice.</p>
+          <p>I am an Applied Science Manager at Amazon, where I lead a team of 10+ ML scientists across India, Europe and the US working on model compression. I previously served as adjunct faculty at IIT (ISM) Dhanbad.</p>
           <p>Previously, I founded Transmute AI Lab at IIT (ISM) Dhanbad and co-founded Nyun AI, which was acqui-hired by Amazon in 2025. I have also worked at AIQ, the University of Amsterdam’s QUVA Lab, and Shell Technology Centre. My work connects academic research with applications in industry, including healthcare, energy and subsurface modelling.</p>
           <p>I earned my PhD in Computational Engineering at TU Delft. Before that, I completed an integrated B.Sc. and M.Sc. in Geophysics at IIT (ISM) Dhanbad in 2013, receiving the Director’s Gold Medal.</p>
         </section>
