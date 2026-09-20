@@ -1,101 +1,382 @@
 @import 'tailwindcss';
-:root { --ink:#282b30; --muted:#687078; --link:#255e85; --line:#e4e5e6; --paper:#fff; }
+
+/* ===========================================================================
+   Design tokens
+   Warm paper ground, near-black ink, a single deep-teal accent. Sizes are set
+   in rem-friendly px so the whole scale moves together.
+   ========================================================================= */
+:root {
+  --paper:#f7f5ef;
+  --card:#fffdf8;
+  --ink:#16151a;
+  --ink-soft:#46444e;
+  --ink-faint:#6a6772;
+  --line:#e2ded3;
+  --line-soft:#ece9e0;
+  --accent:#0f6156;
+  --accent-soft:#15806f;
+  --accent-tint:rgba(15,97,86,.075);
+  --dark:#14161c;
+  --dark-soft:#a8a69f;
+  --radius:14px;
+  --radius-sm:9px;
+  --nav-h:68px;
+}
+
+@media (prefers-color-scheme:dark) {
+  :root {
+    --paper:#121317;
+    --card:#191b21;
+    --ink:#f1efea;
+    --ink-soft:#b6b3ac;
+    --ink-faint:#8b8880;
+    --line:#2b2d34;
+    --line-soft:#232529;
+    --accent:#63c6b1;
+    --accent-soft:#8ad9c7;
+    --accent-tint:rgba(99,198,177,.1);
+    --dark:#0d0e12;
+    --dark-soft:#93918b;
+  }
+}
+
+/* ===========================================================================
+   Base
+   ========================================================================= */
 * { box-sizing:border-box; }
-html { scroll-behavior:smooth; scroll-padding-top:35px; }
-body { margin:0; color:var(--ink); background:var(--paper); font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.75; }
-a { color:var(--link); text-decoration:none; }
-a:hover { text-decoration:underline; text-underline-offset:3px; }
-a:focus-visible { outline:2px solid var(--link); outline-offset:5px; }
+
+html {
+  scroll-behavior:smooth;
+  scroll-padding-top:calc(var(--nav-h) + 24px);
+  -webkit-text-size-adjust:100%;
+}
+
+body {
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+  font-size:16.5px;
+  line-height:1.68;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  font-feature-settings:'kern' 1,'liga' 1;
+}
+
+a { color:var(--accent); text-decoration:none; }
+a:hover { color:var(--accent-soft); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+a:focus-visible { outline:2px solid var(--accent); outline-offset:3px; border-radius:2px; }
+
 h1,h2,h3,h4,p { margin:0; }
-p { margin-bottom:16px; }
-.academic-site { display:grid; grid-template-columns:240px minmax(0,730px); gap:70px; max-width:1140px; margin:auto; padding:68px 40px 25px; }
-.profile-sidebar { align-self:start; position:sticky; top:50px; padding-top:6px; }
-.profile-name { color:var(--ink); font-family:Georgia,serif; font-size:25px; font-weight:bold; line-height:1.3; display:block; margin-bottom:22px; }
-.appointment { font-weight:600; margin-bottom:0; line-height:1.5; font-size:14px; }
-.appointment span { display:block; color:var(--muted); font-weight:400; font-size:12px; }
-.institution { font-size:13px; color:var(--muted); margin-top:4px; line-height:1.65; }
-.second-role { margin-top:19px; }
-.profile-links { display:grid; gap:5px; font-size:13px; margin:24px 0 27px; }
-.profile-links a { display:flex; align-items:center; gap:7px; width:fit-content; }
-nav { border-top:1px solid var(--line); padding-top:20px; display:grid; gap:9px; font-size:13px; }
-nav a { color:#545b62; }
+p { margin-bottom:17px; }
+img { max-width:100%; height:auto; }
+
+::selection { background:var(--accent-tint); color:var(--ink); }
+
+/* Display type — serif, tight, optically sized. */
+h1,h2,.profile-name,.intro,.statement {
+  font-family:'Newsreader',Georgia,'Times New Roman',serif;
+  font-weight:500;
+  letter-spacing:-.02em;
+}
+
+/* ===========================================================================
+   Top navigation
+   ========================================================================= */
+.top-navigation {
+  position:sticky; top:0; z-index:40;
+  background:var(--paper);
+  background:color-mix(in srgb,var(--paper) 86%,transparent);
+  backdrop-filter:saturate(180%) blur(12px);
+  -webkit-backdrop-filter:saturate(180%) blur(12px);
+  border-bottom:1px solid var(--line);
+}
+.top-navigation nav {
+  display:flex; flex-wrap:wrap; align-items:center; gap:10px 32px;
+  max-width:1180px; margin:0 auto; padding:0 40px;
+  min-height:var(--nav-h);
+  border:0;
+  font-size:14.5px; font-weight:500;
+}
+.top-navigation nav a { color:var(--ink-soft); position:relative; padding:4px 0; }
+.top-navigation nav a:hover { color:var(--accent); text-decoration:none; }
+.top-navigation nav a::after {
+  content:''; position:absolute; left:0; right:0; bottom:-2px; height:1.5px;
+  background:var(--accent); transform:scaleX(0); transform-origin:left;
+  transition:transform .22s ease;
+}
+.top-navigation nav a:hover::after { transform:scaleX(1); }
+
+/* ===========================================================================
+   Shell
+   ========================================================================= */
+.academic-site {
+  display:grid;
+  grid-template-columns:268px minmax(0,740px);
+  gap:74px;
+  max-width:1180px;
+  margin:auto;
+  padding:56px 40px 40px;
+}
 main { min-width:0; }
-section { padding:31px 0; border-bottom:1px solid var(--line); }
-.about-section { padding-top:0; }
-.page-kicker { font-size:11px; letter-spacing:1.6px; text-transform:uppercase; color:var(--muted); margin-bottom:9px; }
-h1 { font-family:Georgia,'Times New Roman',serif; font-size:39px; font-weight:normal; line-height:1.2; margin-bottom:23px; letter-spacing:-.7px; }
-.intro { font-size:18px; line-height:1.6; color:#3c4349; }
-h2 { font-family:Georgia,'Times New Roman',serif; font-size:25px; font-weight:normal; line-height:1.3; margin-bottom:20px; }
-h3 { font-size:15px; font-weight:600; line-height:1.55; margin:23px 0 9px; }
-h4 { font-size:15px; font-weight:600; line-height:1.55; }
-.section-subhead { display:flex; justify-content:space-between; align-items:baseline; gap:16px; flex-wrap:wrap; }
-.section-subhead a { font-size:12px; }
-.publications { margin:10px 0 25px; padding-left:23px; }
-.publications li { padding-left:6px; margin:0 0 18px; }
-.publications li::marker { color:#8a9096; font-size:12px; }
-.publications a { font-weight:500; }
-.venue { display:block; color:var(--muted); font-size:12px; margin-top:2px; }
-.plain-list { padding-left:19px; margin:8px 0 17px; }
-.plain-list li { padding-left:3px; margin-bottom:5px; }
-.course { display:grid; grid-template-columns:90px 1fr; gap:17px; padding:17px 0; border-top:1px solid #eee; }
-.course-code { color:var(--muted); font-size:12px; padding-top:2px; }
-.course p { font-size:13px; color:var(--muted); margin:2px 0; }
-.course a { font-size:12px; }
-.small { font-size:12px; color:var(--muted); }
-.academic-appointment { margin-bottom:22px; }
-.academic-appointment h3 { margin-top:0; }
-.academic-appointment p { color:var(--muted); font-size:13px; }
-.experience-row { display:grid; grid-template-columns:136px 1fr; gap:24px; padding:19px 0; border-top:1px solid #eee; }
-.dates { font-size:11px; color:var(--muted); padding-top:3px; }
-.experience-row h3 { margin:0 0 3px; }
-.experience-row p { margin-bottom:7px; font-size:13px; }
-.experience-row .role { color:var(--muted); font-size:12px; }
-footer { display:flex; justify-content:space-between; gap:20px; color:#8a8d91; font-size:11px; padding:25px 0; }
-.skip-link { position:fixed; top:-100px; background:white; padding:8px; z-index:10; }
-.skip-link:focus { top:10px; }
-@media(max-width:900px) { .academic-site { gap:36px; grid-template-columns:200px minmax(0,1fr); padding:40px 26px; } .experience-row { grid-template-columns:1fr; gap:0; } .dates { margin-bottom:4px!important; } }
-@media(max-width:650px) { .academic-site { display:block; padding:28px 23px; } .profile-sidebar { position:static; padding-bottom:28px; margin-bottom:28px; border-bottom:1px solid var(--line); } .profile-name { margin-bottom:13px; } .profile-links { display:flex; flex-wrap:wrap; column-gap:17px; row-gap:8px; margin-bottom:18px; } nav { display:flex; flex-wrap:wrap; gap:8px 18px; padding-top:15px; } h1 { font-size:33px; } .intro { font-size:17px; } .course { grid-template-columns:75px 1fr; gap:10px; } }
-@media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
 
-.portrait { display:block; width:170px; height:170px; object-fit:cover; border-radius:3px; margin-bottom:23px; }
-@media(max-width:650px) { .portrait { width:125px; height:125px; } }
-
-.experience-row .experience-outcome { color:#535d66; }
-@media(max-width:650px) {
-  .profile-sidebar { display:grid; grid-template-columns:100px minmax(0,1fr); column-gap:20px; }
-  .portrait { width:100px; height:100px; grid-column:1; grid-row:1 / 6; margin:0; }
-  .profile-name,.appointment,.institution { grid-column:2; }
-  .profile-name { font-size:22px; margin-bottom:8px; }
-  .second-role { margin-top:8px; }
-  .profile-links,nav { grid-column:1 / -1; }
-}
-@media print {
-  .profile-sidebar { position:static; }
-  nav,.skip-link,footer a { display:none; }
-  .academic-site { display:block; padding:0; }
-  .profile-sidebar { border-bottom:1px solid #ddd; margin-bottom:20px; }
+/* ===========================================================================
+   Profile sidebar — a quiet card that stays with you
+   ========================================================================= */
+.profile-sidebar {
+  align-self:start;
+  position:sticky;
+  top:calc(var(--nav-h) + 28px);
+  max-height:calc(100dvh - var(--nav-h) - 52px);
+  overflow-y:auto;
+  scrollbar-width:thin;
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:26px 24px 24px;
 }
 
-.publication-note { font-size:13px; color:var(--muted); }
-.publication-year { display:grid; grid-template-columns:55px minmax(0,1fr); gap:20px; margin-top:25px; }
-.publication-year > h4 { font-size:13px; color:var(--muted); padding-top:2px; }
+.portrait {
+  display:block; width:132px; height:132px;
+  object-fit:cover; border-radius:50%;
+  margin-bottom:20px;
+  border:1px solid var(--line);
+}
+
+.profile-name {
+  display:block;
+  color:var(--ink);
+  font-size:26px;
+  line-height:1.22;
+  margin-bottom:18px;
+}
+.profile-name:hover { color:var(--accent); text-decoration:none; }
+
+.appointment {
+  font-weight:600; font-size:14px; line-height:1.45;
+  margin-bottom:0; color:var(--ink);
+}
+.appointment span { display:block; color:var(--ink-faint); font-weight:400; font-size:12.5px; }
+.institution { font-size:13px; color:var(--ink-faint); margin:3px 0 0; line-height:1.55; }
+.second-role { margin-top:16px; padding-top:16px; border-top:1px solid var(--line-soft); }
+
+.profile-links {
+  display:grid; gap:7px; font-size:13.5px;
+  margin:24px 0 22px;
+}
+.profile-links a {
+  display:flex; align-items:center; gap:8px;
+  color:var(--ink-soft);
+  padding:7px 11px;
+  border:1px solid var(--line);
+  border-radius:var(--radius-sm);
+  transition:border-color .18s ease,color .18s ease,background .18s ease;
+}
+.profile-links a:hover {
+  color:var(--accent); border-color:var(--accent);
+  background:var(--accent-tint); text-decoration:none;
+}
+/* The CV download is the one action worth emphasising. */
+.profile-links a:last-child {
+  background:var(--accent); border-color:var(--accent); color:#fff; font-weight:500;
+}
+.profile-links a:last-child:hover { background:var(--accent-soft); border-color:var(--accent-soft); color:#fff; }
+
+.profile-sidebar nav {
+  border:0; border-top:1px solid var(--line-soft);
+  padding-top:18px; display:grid; gap:10px; font-size:13.5px;
+}
+.profile-sidebar nav a { color:var(--ink-faint); }
+.profile-sidebar nav a:hover { color:var(--accent); text-decoration:none; }
+
+/* ===========================================================================
+   Sections and headings
+   ========================================================================= */
+section { padding:52px 0; border-bottom:1px solid var(--line); }
+.about-section { padding-top:0; border-bottom:1px solid var(--line); }
+
+.page-kicker {
+  font-size:12px; letter-spacing:.15em; text-transform:uppercase;
+  color:var(--accent); font-weight:600; margin-bottom:16px;
+}
+
+h1 {
+  font-size:clamp(38px,5.4vw,56px);
+  line-height:1.06;
+  margin-bottom:24px;
+  color:var(--ink);
+}
+
+.intro {
+  font-size:22px; line-height:1.48; color:var(--ink);
+  margin-bottom:24px; max-width:44ch;
+}
+
+.about-section p:not(.intro):not(.page-kicker) {
+  color:var(--ink-soft); max-width:66ch;
+}
+
+h2 {
+  font-size:clamp(25px,3.1vw,33px);
+  line-height:1.2;
+  margin-bottom:22px;
+  color:var(--ink);
+  padding-top:14px;
+  border-top:2px solid var(--accent);
+  display:inline-block;
+}
+
+h3 {
+  font-size:15px; font-weight:600; line-height:1.5;
+  letter-spacing:.02em;
+  margin:34px 0 12px;
+  color:var(--ink);
+}
+h4 { font-size:15.5px; font-weight:600; line-height:1.5; color:var(--ink); }
+
+section > p { color:var(--ink-soft); max-width:66ch; }
+
+/* ===========================================================================
+   Experience
+   ========================================================================= */
+.experience-row {
+  display:grid; grid-template-columns:132px 1fr; gap:26px;
+  padding:22px; margin:0 -22px;
+  border-radius:var(--radius);
+  border-top:1px solid var(--line-soft);
+  transition:background .2s ease;
+}
+.experience-row:first-of-type { border-top:0; }
+.experience-row:hover { background:var(--card); }
+.dates {
+  font-size:12px; color:var(--ink-faint); padding-top:4px;
+  letter-spacing:.05em; font-variant-numeric:tabular-nums;
+}
+.experience-row h3 { margin:0 0 4px; font-size:16.5px; }
+.experience-row p { margin-bottom:8px; font-size:14.5px; color:var(--ink-soft); }
+.experience-row .role { color:var(--accent); font-size:13px; font-weight:500; }
+.experience-row .experience-outcome { color:var(--ink-soft); }
+
+/* ===========================================================================
+   Publications
+   ========================================================================= */
+.publication-note { font-size:14px; color:var(--ink-faint); }
+.publication-year {
+  display:grid; grid-template-columns:58px minmax(0,1fr); gap:24px;
+  margin-top:28px;
+}
+.publication-year > h4 {
+  font-size:12.5px; color:var(--accent); padding-top:5px; font-weight:600;
+  letter-spacing:.1em; font-variant-numeric:tabular-nums;
+}
 .publications { list-style:none; margin:0; padding:0; }
-.publications li { margin:0 0 25px; padding:0; }
-.publications .paper-title { font-weight:600; line-height:1.5; }
-.paper-authors { font-size:13px; line-height:1.6; margin:5px 0 2px; }
-.paper-authors strong { font-weight:600; }
-.paper-venue { font-size:13px; margin:0; }
-.profile-sidebar { max-height:calc(100dvh - 65px); overflow-y:auto; scrollbar-width:thin; padding-right:8px; }
-@media(max-width:650px) { .profile-sidebar { max-height:none; overflow:visible; padding-right:0; } .publication-year { grid-template-columns:1fr; gap:10px; } }
+.publications li {
+  margin:0 0 6px; padding:14px 16px;
+  border-left:2px solid transparent;
+  border-radius:var(--radius-sm);
+  transition:border-color .2s ease,background .2s ease;
+}
+.publications li:hover { border-left-color:var(--accent); background:var(--card); }
+.publications .paper-title {
+  font-weight:600; line-height:1.45; font-size:15.5px; color:var(--ink);
+}
+.publications .paper-title:hover { color:var(--accent); }
+.paper-authors { font-size:13.5px; line-height:1.6; margin:6px 0 3px; color:var(--ink-faint); }
+.paper-authors strong { font-weight:600; color:var(--ink); }
+.paper-venue { font-size:13.5px; margin:0; color:var(--ink-faint); }
 
-/* Prominent section navigation, shared by desktop and mobile. */
-.top-navigation { position:sticky; top:0; z-index:30; background:#fff; border-bottom:1px solid var(--line); }
-.top-navigation nav { display:flex; flex-wrap:wrap; align-items:center; gap:12px 34px; max-width:1140px; margin:0 auto; padding:20px 40px; border:0; font-size:15px; font-weight:700; }
-.top-navigation nav a { color:var(--ink); }
-.top-navigation nav a:hover { color:var(--link); }
-html { scroll-padding-top:95px; }
-.profile-sidebar { top:95px; max-height:calc(100dvh - 110px); }
-.academic-site { padding-top:42px; }
-@media(max-width:900px) { .top-navigation nav { padding:18px 26px; gap:10px 25px; } }
-@media(max-width:650px) { .top-navigation nav { padding:15px 23px; gap:9px 22px; font-size:13px; } .profile-sidebar { max-height:none; } html { scroll-padding-top:115px; } }
-@media print { .top-navigation { display:none; } }
+.plain-list { padding-left:20px; margin:10px 0 18px; color:var(--ink-soft); }
+.plain-list li { padding-left:4px; margin-bottom:8px; }
+.plain-list li::marker { color:var(--accent); }
+
+/* ===========================================================================
+   Teaching
+   ========================================================================= */
+.course {
+  display:grid; grid-template-columns:104px 1fr; gap:20px;
+  padding:18px 20px; margin:0 -20px;
+  border-top:1px solid var(--line-soft);
+  border-radius:var(--radius);
+  transition:background .2s ease;
+}
+.course:hover { background:var(--card); }
+.course-code {
+  color:var(--accent); font-size:12px; padding-top:3px; font-weight:600;
+  letter-spacing:.07em; font-variant-numeric:tabular-nums;
+}
+.course h4 { margin-bottom:3px; }
+.course p { font-size:13.5px; color:var(--ink-faint); margin:2px 0; }
+.course a { font-size:13px; }
+
+/* ===========================================================================
+   Footer
+   ========================================================================= */
+footer {
+  display:flex; justify-content:space-between; align-items:center; gap:20px;
+  flex-wrap:wrap;
+  color:var(--ink-faint); font-size:13px;
+  padding:30px 0 10px;
+}
+
+.skip-link {
+  position:fixed; top:-100px; left:10px; z-index:60;
+  background:var(--card); color:var(--ink);
+  padding:10px 14px; border:1px solid var(--accent); border-radius:var(--radius-sm);
+}
+.skip-link:focus { top:12px; }
+
+/* ===========================================================================
+   Responsive
+   ========================================================================= */
+@media (max-width:980px) {
+  .academic-site { grid-template-columns:232px minmax(0,1fr); gap:40px; padding:40px 26px; }
+  .top-navigation nav { padding:0 26px; gap:10px 24px; }
+  .experience-row { grid-template-columns:1fr; gap:0; }
+  .dates { margin-bottom:6px; }
+}
+
+@media (max-width:700px) {
+  body { font-size:16px; }
+  .academic-site { display:block; padding:28px 22px; }
+  .top-navigation nav { padding:0 22px; gap:8px 20px; font-size:13.5px; min-height:58px; }
+  html { scroll-padding-top:82px; }
+
+  .profile-sidebar {
+    position:static; max-height:none; overflow:visible;
+    display:grid; grid-template-columns:104px minmax(0,1fr); column-gap:20px;
+    margin-bottom:32px; padding:20px;
+  }
+  .portrait { width:104px; height:104px; grid-column:1; grid-row:1 / 5; margin:0; }
+  .profile-name,.appointment,.institution { grid-column:2; }
+  .profile-name { font-size:22px; margin-bottom:10px; }
+  .second-role { margin-top:12px; padding-top:12px; }
+  .profile-links,.profile-sidebar nav { grid-column:1 / -1; }
+  .profile-links {
+    display:flex; flex-wrap:wrap; gap:8px; margin:20px 0 18px;
+  }
+  .profile-sidebar nav { display:flex; flex-wrap:wrap; gap:10px 20px; }
+
+  section { padding:38px 0; }
+  .intro { font-size:19px; }
+  .publication-year { grid-template-columns:1fr; gap:8px; }
+  .course { grid-template-columns:1fr; gap:4px; padding:16px 14px; margin:0 -14px; }
+  .experience-row { padding:18px 14px; margin:0 -14px; }
+}
+
+@media (prefers-reduced-motion:reduce) {
+  html { scroll-behavior:auto; }
+  *,*::after,*::before { transition:none !important; animation:none !important; }
+}
+
+@media print {
+  .top-navigation,.skip-link,.profile-sidebar nav,footer a { display:none; }
+  .academic-site { display:block; padding:0; max-width:none; }
+  .profile-sidebar {
+    position:static; max-height:none; overflow:visible;
+    border:0; border-bottom:1px solid #ddd; border-radius:0;
+    padding:0 0 18px; margin-bottom:22px;
+  }
+  body { background:#fff; font-size:11pt; }
+  h2 { border-top-color:#333; }
+  section { padding:18px 0; }
+}

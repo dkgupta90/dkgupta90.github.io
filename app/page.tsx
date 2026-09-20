@@ -118,9 +118,7 @@ export default function Home() {
         <a className="profile-name" href="#about">Deepak K. Gupta</a>
         <p className="appointment">Applied Science Manager</p>
         <p className="institution">Amazon · Dubai, UAE</p>
-        <p className="appointment second-role">Associate Professor <span>20% appointment</span></p>
-        <p className="institution">UiT The Arctic University<br />of Norway</p>
-        <p className="appointment second-role">Adjunct Faculty</p>
+        <p className="appointment second-role">Former Adjunct Faculty</p>
         <p className="institution">IIT (ISM) Dhanbad</p>
         <div className="profile-links">
           <a href="mailto:guptadeepak2806@gmail.com"><Mail size={14} /> Email</a>
@@ -136,7 +134,7 @@ export default function Home() {
           <p className="page-kicker">Applied science · Efficient AI</p>
           <h1>Deepak K. Gupta</h1>
           <p className="intro">I lead applied-science teams working on efficient AI, connecting machine-learning research with systems that can be deployed in practice.</p>
-          <p>I am an Applied Science Manager at Amazon, where I lead a team of 10+ applied scientists across India, Europe and the US working on model compression. I also hold a 20% appointment as Associate Professor at UiT The Arctic University of Norway and serve as adjunct faculty at IIT (ISM) Dhanbad.</p>
+          <p>I am an Applied Science Manager at Amazon, where I lead a team of 10+ applied scientists across India, Europe and the US working on model compression. I previously served as adjunct faculty at IIT (ISM) Dhanbad.</p>
           <p>Previously, I founded Transmute AI Lab at IIT (ISM) Dhanbad and co-founded Nyun AI, which was acqui-hired by Amazon in 2025. I have also worked at AIQ, the University of Amsterdam’s QUVA Lab, and Shell Technology Centre. My work connects academic research with applications in industry, including healthcare, energy and subsurface modelling.</p>
           <p>I earned my PhD in Computational Engineering at TU Delft. Before that, I completed an integrated B.Sc. and M.Sc. in Geophysics at IIT (ISM) Dhanbad in 2013, receiving the Director’s Gold Medal.</p>
         </section>
@@ -170,7 +168,7 @@ export default function Home() {
         </section>
         <section id="teaching">
           <h2>Teaching</h2>
-          <p>Alongside my industry work, I hold a 20% Associate Professor appointment at UiT The Arctic University of Norway. I have supervised 3 PhD, 13 M.Sc. and 20 B.Sc. researchers. My teaching and mentorship connect machine-learning foundations with practical research problems.</p>
+          <p>Alongside my industry work, I have taught and supervised across several institutions, including 3 PhD, 13 M.Sc. and 20 B.Sc. researchers. My teaching and mentorship connect machine-learning foundations with practical research problems.</p>
           <div className="course"><div className="course-code">NCSC513</div><div><h4>Artificial Intelligence</h4><p>IIT (ISM) Dhanbad · Winter Semester 2020–21</p><p>Teaching assistants: Rishabh Tiwari, Udbhav Bamba</p><a href="https://people.iitism.ac.in/~download/Course%20Catalogue%20NEP/CSE/NCSC513.pdf" target="_blank" rel="noreferrer">Course syllabus ↗</a></div></div>
           <div className="course"><div className="course-code">INF-8605</div><div><h4>Interpretability in Deep Learning</h4><p>UiT The Arctic University of Norway</p><p>Teaching assistant: Rishabh Tiwari</p></div></div>
           <div className="course"><div className="course-code">2018–19</div><div><h4>Project AI</h4><p>University of Amsterdam · M.Sc.</p><p>Course coordinator and assessor</p></div></div>
