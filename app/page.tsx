@@ -138,7 +138,7 @@ export default function Home() {
           <p className="intro">I lead applied-science teams working on efficient AI, connecting machine-learning research with systems that can be deployed in practice.</p>
           <p>I am an Applied Science Manager at Amazon, where I lead a team of 10+ applied scientists across India, Europe and the US working on model compression. I also hold a 20% appointment as Associate Professor at UiT The Arctic University of Norway and serve as adjunct faculty at IIT (ISM) Dhanbad.</p>
           <p>Previously, I founded Transmute AI Lab at IIT (ISM) Dhanbad and co-founded Nyun AI, which was acqui-hired by Amazon in 2025. I have also worked at AIQ, the University of Amsterdam’s QUVA Lab, and Shell Technology Centre. My work connects academic research with applications in industry, including healthcare, energy and subsurface modelling.</p>
-          <p>I earned my PhD in Computational Engineering at Delft University of Technology (research undertaken in 2013–2017; degree awarded in 2019). Before that, I completed an integrated B.Sc. and M.Sc. in Geophysics at IIT (ISM) Dhanbad in 2013, receiving the Director’s Gold Medal.</p>
+          <p>I earned my PhD in Computational Engineering at TU Delft. Before that, I completed an integrated B.Sc. and M.Sc. in Geophysics at IIT (ISM) Dhanbad in 2013, receiving the Director’s Gold Medal.</p>
         </section>
         <section id="experience">
           <h2>Industry & research experience</h2>
